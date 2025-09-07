@@ -1,0 +1,14 @@
+package Com.y3;
+
+public class CircleRadius {
+	public static void main(String[]args) {
+	    float pi=3.14f;
+		int radius=1;
+		float area=pi*radius*radius;
+		System.out.println("Radius:"+radius+"\n"+"Area:"+area);
+		}
+}
+
+OUTPUT:
+Radius:1
+Area:3.14
